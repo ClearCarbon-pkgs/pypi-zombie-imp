@@ -7,7 +7,7 @@
 #
 Name     : pypi-zombie-imp
 Version  : 0.0.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/56/93/fa68bd4acc8a08a8cc8eace010754b54bb57e80f252e9c9a2bd13a5ba50a/zombie-imp-0.0.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/56/93/fa68bd4acc8a08a8cc8eace010754b54bb57e80f252e9c9a2bd13a5ba50a/zombie-imp-0.0.2.tar.gz
 Summary  : A copy of the `imp` module that was removed in Python 3.12
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1703142000
+export SOURCE_DATE_EPOCH=1703142599
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
